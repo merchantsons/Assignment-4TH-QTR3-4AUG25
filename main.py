@@ -9,9 +9,7 @@ from agents import Runner
 from agents import InputGuardrailTripwireTriggered
 from context import ctx
 
-
 load_dotenv()
-
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
