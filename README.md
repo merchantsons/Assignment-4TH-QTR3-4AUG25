@@ -17,10 +17,10 @@ Roll Number  : 00037391 <br>
 Days / Time  : Monday - 02:00 PM - 05:00 PM<br>
 Center       : Governor House Karachi (Onsite)<br>
 
-# Simple Bank Agent
-├── main.py
-├── context.py
-├── input_guardrails.py
-├── output_guardrails.py
-├── agents.py
-└── models.py
+# Simple Bank Agent <br>
+├── main.py <br>
+├── context.py <br>
+├── input_guardrails.py <br>
+├── output_guardrails.py <br>
+├── agents.py <br>
+└── models.py <br>
